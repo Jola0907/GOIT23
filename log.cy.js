@@ -17,7 +17,6 @@ export class logowanie2user {
     menuStrony(){
         cy.get('[data-element-type="burger-menu"]').click();
     }
-    logOut() {
-        cy.get('[type="submit"]').should('have.text', 'Log out').click()
-    }
+   
+    
 }
