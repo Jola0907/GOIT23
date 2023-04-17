@@ -6,6 +6,7 @@ describe("strHom", () => {
          it("homStrona", () => {
           
             homStr.navigate();
+            homStr.logOut();
 
         });
     });
