@@ -11,7 +11,7 @@ const logUse = new logowanie2user
 
             logowanie2user.menuStrony();
 
-            logowanie2user.logOut();
+            
 
 
        });
